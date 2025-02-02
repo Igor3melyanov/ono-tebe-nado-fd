@@ -253,7 +253,7 @@
   justify-content: end;
 }
 
-.footer+social-icon {
+.footer-social-icon {
   height: 48px;
 }
 
