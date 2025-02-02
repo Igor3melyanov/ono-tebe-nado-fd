@@ -5,7 +5,7 @@
   padding: 92px 50px 97px 50px;
 }
 
-.header__menu-list {
+.header-menu-list {
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
@@ -15,7 +15,7 @@
   list-style: circle;
 }
 
-.header_menu-item_active {
+.header-menu-item-active {
   list-style: none;
 }
   
@@ -232,7 +232,7 @@
   flex-direction: column;
 }
 
-.footer__menu-list {
+.footer-menu-list {
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
@@ -242,18 +242,18 @@
   list-style: none;
 }
 
-.footer_menu-item_active {
+.footer-menu-item-active {
   list-style: none;
 }
 
-.footer__social-list {
+.footer-social-list {
   list-style: none;
   display: flex;
   gap: 48px;
   justify-content: end;
 }
 
-.footer__social-icon {
+.footer+social-icon {
   height: 48px;
 }
 
