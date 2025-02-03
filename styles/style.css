@@ -48,9 +48,9 @@
 .global-heading {
   padding: 155px 22px 90px 50px;
   font-weight: 700;
-  font-size: 70px;
-  line-height: 194%;
-  letter-spacing: 0.37em;
+  font-size: 100px;
+  line-height: 135%;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
   z-index: 1;
 }
